@@ -2,4 +2,4 @@
 
 ### Моё резюме 
 
-[Смотреть здесь](https://mzkhryn.github.io/Resume-/)    
+[Смотреть здесь](https://mzkhryn.github.io/Resume/)    
